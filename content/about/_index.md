@@ -3,7 +3,7 @@ title: "About Me"
 description: "This is a demo of the Blowfish theme for Hugo."
 cascade:
   showDate: false
-  showAuthor: false
+  showAuthor: true
   invertPagination: true
 ---
 
