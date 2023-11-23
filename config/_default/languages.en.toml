@@ -15,9 +15,9 @@ title = "Cloud Architecture"
 
  [author]
    name = "Mark D. Hughes"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+   image = "img/blowfish_logo.png"
+   headline = "Senior Solutions Consultant"
+   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
