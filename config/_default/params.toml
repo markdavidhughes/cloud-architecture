@@ -38,10 +38,10 @@ disableImageOptimization = true
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
+  showRecentItems = 6
+  showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
