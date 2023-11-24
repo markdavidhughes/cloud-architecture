@@ -34,6 +34,7 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
 {{< gallery >}}
   <img src="gallery/azure-administrator-associate-600x600.png" class="grid-w20" />
   <img src="gallery/azure-security-engineer-associate600x600.png" class="grid-w20" />
+  <img src="gallery/azure-network-engineer-associate-600x600.png" class="grid-w20" />
 
 {{< /gallery >}}
 
