@@ -21,15 +21,15 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
 
 {{< timeline >}}
 
-{{< timelineItem header="Expert Certifications" subheader="subheader" >}}
+{{< timelineItem icon="star" header="Expert Certifications" subheader="subheader" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
 {{< /timelineItem >}}
 
-{{< timelineItem header="Associate Certifications" subheader="subheader" >}}
+{{< timelineItem icon="star" header="Associate Certifications" subheader="subheader" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
 {{< /timelineItem >}}
 
-{{< timelineItem header="Fundamental Certifications" subheader="subheader" >}}
+{{< timelineItem icon="star" header="Fundamental Certifications" subheader="subheader" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
 {{< /timelineItem >}}
 
