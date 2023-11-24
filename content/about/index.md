@@ -38,12 +38,12 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
 
 <h2>Fundamental Level Certifications</h2>
 {{< gallery >}}
-  <img src="gallery/azure.png" class="grid-w33" />
-  <img src="gallery/azure-ai-fundamentals-600x600.png" class="grid-w33" />
-  <img src="gallery/azure-data-fundamentals-600x600.png" class="grid-w33" />
-  <img src="gallery/dynamics365-fundamentals-crm-600x600.png" class="grid-w33" />
-  <img src="gallery/dynamics365-fundamentals-erp-600x600.png" class="grid-w33" />
-  <img src="gallery/m365.png" class="grid-w33" />
-  <img src="gallery/CERT-Fundamentals-Power-Platform.png" class="grid-w33" />
-  <img src="gallery/security-compliance-and-identity-fundamentals-600x600.png" class="grid-w33" />
+  <img src="gallery/azure.png" class="grid-w20" />
+  <img src="gallery/azure-ai-fundamentals-600x600.png" class="grid-w20" />
+  <img src="gallery/azure-data-fundamentals-600x600.png" class="grid-w20" />
+  <img src="gallery/dynamics365-fundamentals-crm-600x600.png" class="grid-w20" />
+  <img src="gallery/dynamics365-fundamentals-erp-600x600.png" class="grid-w20" />
+  <img src="gallery/m365.png" class="grid-w20" />
+  <img src="gallery/CERT-Fundamentals-Power-Platform.png" class="grid-w20" />
+  <img src="gallery/security-compliance-and-identity-fundamentals-600x600.png" class="grid-w20" />
 {{< /gallery >}}
