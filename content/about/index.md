@@ -36,3 +36,5 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
 {{< timelineItem icon="star" header="Fundamental Certifications" subheader="subheader" >}}
 
 {{< /timelineItem >}}
+
+{{< /timeline >}}
