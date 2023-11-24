@@ -32,8 +32,7 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
 
 <h2>Associate Level Certifications</h2>
 {{< gallery >}}
-  <img src="gallery/azure-solutions-architect-expert-600x600.png" class="grid-w33" />
-  <img src="gallery/microsoft365-enterprise-adminstrator-expert-600x600.png" class="grid-w33" />
+  <img src="gallery/azure-administrator-associate-600x600.png" class="grid-w33" />
 {{< /gallery >}}
 
 <h2>Fundamental Level Certifications</h2>
