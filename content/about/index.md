@@ -40,7 +40,7 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
 
 <h2>Speciality Level Certifications</h2>
 {{< gallery >}}
-  <img src="gallery/azure-virtual-desktop-specialty-600x600" class="grid-w20" />
+  <img src="gallery/azure-virtual-desktop-specialty-600x600.png" class="grid-w20" />
 {{< /gallery >}}
 
 <h2>Fundamental Level Certifications</h2>
