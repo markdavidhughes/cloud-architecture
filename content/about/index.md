@@ -15,7 +15,7 @@ sharingLinks : false
 
 ---
 
-Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Microsoft Certified Trainer and Expert, my background spans richly across the Public Sector. With hands-on experience in Local Government, Education, and Healthcare domains, I bring a seasoned perspective. Presently, as a Senior Cloud Consultant at a Microsoft Partner, my focus revolves around delivering exceptional Microsoft 365 and Azure services to a diverse clientele across various industries. I specialise in crafting intricate solutions, guiding them from the Proof of Concept (PoC) phase through to their final deployment. Below are my current certifications minus the retired ones.
+Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Microsoft Certified Trainer and Expert, my background spans richly across the Public Sector. With hands-on experience in Local Government, Education, and Healthcare domains, I bring a seasoned perspective. Presently, as a Senior Cloud Consultant at a Microsoft Partner, my focus revolves around delivering exceptional Microsoft 365 and Azure services to a diverse clientele across various industries. I specialise in crafting intricate solutions, guiding them from the Proof of Concept (PoC) phase through to their final deployment. Below are my current valid certifications.
 
 <h1>Certifications</h1>
 <h2>Microsoft Certification</h2>
@@ -35,6 +35,7 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
   <img src="gallery/azure-administrator-associate-600x600.png" class="grid-w20" />
   <img src="gallery/azure-security-engineer-associate600x600.png" class="grid-w20" />
   <img src="gallery/azure-network-engineer-associate-600x600.png" class="grid-w20" />
+  <img src="gallery/windowserver.png" class="grid-w20" />
 
 {{< /gallery >}}
 
