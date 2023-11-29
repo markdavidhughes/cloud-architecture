@@ -26,7 +26,7 @@ If you'd like to build something similar you can follow the following steps:
 
 ## Create a Hugo application
 1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your OS.
-2. Open a terminal.
+2. Once installed, open a terminal.
 3. Run the Hugo CLI to create a new app.
 ```bash
 hugo new site new-app
