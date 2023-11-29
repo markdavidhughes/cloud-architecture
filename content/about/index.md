@@ -40,13 +40,13 @@ I am dedicated to staying at the forefront of technology trends and advancements
   <img src="gallery/azure-administrator-associate-600x600.png" class="grid-w20" />
   <img src="gallery/azure-security-engineer-associate600x600.png" class="grid-w20" />
   <img src="gallery/azure-network-engineer-associate-600x600.png" class="grid-w20" />
-  <img src="gallery/microsoft365-modern-desktop-administrator-associate-600x600.png" class="grid-w20" />
+  <img src="gallery/identity-and-access-administrator-associate-600x600.png" class="grid-w20" />
+  <img src="gallery/information-protection-administrator-associate-600x600.png" class="grid-w20" />
   <img src="gallery/messaging.png" class="grid-w20" />
+  <img src="gallery/microsoft365-modern-desktop-administrator-associate-600x600.png" class="grid-w20" />
+  <img src="gallery/security-operations-analyst-associate-600x600.png" class="grid-w20" />
   <img src="gallery/CERT-Associate-Microsoft365-Teams-Administrator.png" class="grid-w20" />
   <img src="gallery/windowsserver.png" class="grid-w20" />
-  <img src="gallery/information-protection-administrator-associate-600x600.png" class="grid-w20" />
-  <img src="gallery/security-operations-analyst-associate-600x600.png" class="grid-w20" />
-  <img src="gallery/identity-and-access-administrator-associate-600x600.png" class="grid-w20" />
 {{< /gallery >}}
 
 <h2>Fundamental Level Certifications</h2>
