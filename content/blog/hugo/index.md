@@ -19,7 +19,10 @@ This guide also follows the Microsoft Learn guide available from <a target="_bla
 
 If you'd like to build something similar you can follow the following steps:
 
+## Prerequisites
 
+* An Azure account with an active subscription. If you don't have one, you can create an account for free.
+* A GitHub account. If you don't have one, you can create an account for free.
 
 
 
