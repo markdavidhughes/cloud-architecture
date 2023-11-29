@@ -25,7 +25,7 @@ If you'd like to build something similar you can follow the following steps:
 * A GitHub account. If you don't have one, you can also [create an account for free.](https://github.com/join "create an account for free")
 
 ## Create a Hugo application
-1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your OS.
+1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your operating system.
 2. Once installed, open a terminal.
 3. Run the Hugo CLI to create a new app.
 ```bash
