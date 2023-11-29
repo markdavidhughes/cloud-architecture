@@ -11,6 +11,24 @@ tags: ["Hugo", "Static Web App", "GitHub"]
 Discover how to create your very own blog just like this one.
 {{< /lead >}}
 
+This site was built using Hugo and is hosted using a static web application on Microsoft Azure. There are associated GitHub actions which control how the site is built and published.
+
+It uses the Blowfish theme created by Nuno Coração. This is available from <a target="_blank" href="https://github.com/nunocoracao/blowfish">here.</a>
+
+This guide also follows the Microsoft Learn guide available from <a target="_blank" href="https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo">here.</a>
+
+If you'd like to build something similar you can follow the following steps:
+
+
+
+
+
+
+
+
+
+
+
 The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> and expands its initial vision.
 
 ## Tailwind CSS 3.0
