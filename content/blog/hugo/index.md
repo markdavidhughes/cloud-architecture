@@ -13,16 +13,16 @@ Discover how to create your very own blog just like this one.
 
 This site was built using Hugo and is hosted using a static web application on Microsoft Azure. There are associated GitHub actions which control how the site is built and published.
 
-It uses the Blowfish theme created by Nuno Coração. This is available from <a target="_blank" href="https://github.com/nunocoracao/blowfish">here.</a>
+It uses the Blowfish theme created by Nuno Coração which available from [here.](https://github.com/nunocoracao/blowfish "here")
 
-This guide also follows the Microsoft Learn guide available from <a target="_blank" href="https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo">here.</a>
+This guide also follows the Microsoft Learn guide available from [here.](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo "here")
 
 If you'd like to build something similar you can follow the following steps:
 
 ## Prerequisites
 
 * An Azure account with an active subscription. If you don't have one, you can [create an account for free.](https://azure.microsoft.com/free/ "create an account for free")
-* A GitHub account. If you don't have one, you can [create an account for free.](https://github.com/join "create an account for free")
+* A GitHub account. If you don't have one, you can also [create an account for free.](https://github.com/join "create an account for free")
 
 ## Create a Hugo application
 1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your OS.
