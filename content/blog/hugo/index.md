@@ -21,8 +21,8 @@ If you'd like to build something similar you can follow the following steps:
 
 ## Prerequisites
 
-* An Azure account with an active subscription. If you don't have one, you can create an account for free.
-* A GitHub account. If you don't have one, you can create an account for free.
+* An Azure account with an active subscription. If you don't have one, you can [create an account for free.](https://azure.microsoft.com/free/ "create an account for free")
+* A GitHub account. If you don't have one, you can [create an account for free.](https://github.com/join "create an account for free")
 
 ## Create a Hugo application
 1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your OS.
