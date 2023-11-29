@@ -37,8 +37,8 @@ Drawing from extensive expertise as a TOGAF Certified Solutions Architect and Mi
   <img src="gallery/azure-network-engineer-associate-600x600.png" class="grid-w20" />
   <img src="gallery/microsoft365-modern-desktop-administrator-associate-600x600.png" class="grid-w20" />
   <img src="gallery/messaging.png" class="grid-w20" />
+  <img src="gallery/CERT-Associate-Microsoft365-Teams-Administrator.png" class="grid-w20" />
   <img src="gallery/windowsserver.png" class="grid-w20" />
-
 {{< /gallery >}}
 
 <h2>Fundamental Level Certifications</h2>
