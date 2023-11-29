@@ -23,7 +23,7 @@ Throughout my career, I have specialised in crafting tailored solutions that cat
 
 I am dedicated to staying at the forefront of technology trends and advancements within the Microsoft ecosystem, allowing me to consistently provide cutting-edge and forward-thinking strategies to address complex challenges. My goal is to continue contributing my wealth of knowledge and hands-on experience to drive successful outcomes for businesses while remaining committed to the continuous pursuit of excellence within the realm of Microsoft solutions.
 
-<h2>My Microsoft Certification</h2>
+<h2>My Microsoft Certifications</h2>
 <h2>Microsoft Trainer Certification</h3>
 {{< gallery >}}
   <img src="gallery/mct.png" class="grid-w20" />
