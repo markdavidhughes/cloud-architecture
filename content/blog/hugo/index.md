@@ -1,5 +1,5 @@
 ---
-title: "How this site was created."
+title: "How this site was created"
 date: 2023-11-29
 draft: false
 description: "Discover how to create your very own blog just like this one."
