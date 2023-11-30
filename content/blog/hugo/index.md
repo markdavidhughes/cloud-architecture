@@ -1,7 +1,7 @@
 ---
 title: "How this site was created"
 date: 2023-11-29
-draft: false
+draft: true
 description: "Discover how to create your very own blog just like this one."
 categories: ["Azure"]
 tags: ["Hugo", "Static Web App", "GitHub"]
