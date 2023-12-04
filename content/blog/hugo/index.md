@@ -46,3 +46,7 @@ git branch -M main
 ```bash
 git submodule add https://github.com/nunocoracao/blowfish themes/blowfish
 ```
+7. Now apply the example site to give the new site some content.
+```bash
+cp -r themes/blowfish/exampleSite/* ./
+```
