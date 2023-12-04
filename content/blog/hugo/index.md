@@ -100,3 +100,9 @@ Source | GitHub
 
 7. Select Sign in with GitHub and authenticate with GitHub.
 8. Enter the following GitHub values.
+
+Property | Value
+---------|------
+Organization | Select your desired GitHub organization.
+Repository | Select example-site.
+Branch | Select main.
