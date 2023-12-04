@@ -121,7 +121,7 @@ Branch | Select main.
 
 ![Review your new web app](example-site-web-app.png)
 
-
+![Update your url](update-url.png)
 
 
 You may need to wait a minute or two for the GitHub Actions to complete.
