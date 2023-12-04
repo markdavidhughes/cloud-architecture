@@ -60,3 +60,18 @@ git commit -m "initial commit"
 hugo server
 ```
 ![Example Site running locally](example-site.png)
+
+## Publish to GitHub
+
+A GitHub repository is neeced to connect to Azure Static Web Apps.
+
+1. Create a blank GitHub repo (don't create a README) [here](https://github.com/new "GitHub") named example-site.
+2. Add the GitHub repository as a remote to your local repo. Replace <YOUR_USER_NAME> with your GitHub username.
+```bash
+git remote add origin https://github.com/<YOUR_USER_NAME>/example-site
+```
+3. Push your local repo up to GitHub.
+```bash
+git push --set-upstream origin main
+```
+![Your site now in GitHub](github.png)
