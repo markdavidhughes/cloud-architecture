@@ -59,7 +59,7 @@ git commit -m "initial commit"
 ```bash
 hugo server
 ```
-![Example Site running locally](example-site.png "Example Site running locally"
+![Example Site running locally](example-site.png "Example Site running locally")
 
 ## Publish to GitHub
 
