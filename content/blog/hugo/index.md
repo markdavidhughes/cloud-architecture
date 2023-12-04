@@ -50,3 +50,12 @@ git submodule add https://github.com/nunocoracao/blowfish themes/blowfish
 ```bash
 cp -r themes/blowfish/exampleSite/* ./
 ```
+8. Commit the changes to the main branch.
+```bash
+git add -A
+git commit -m "initial commit"
+```
+9. Preview the example site by running the following and then browsing to `http://localhost:1313/`.
+```bash
+hugo server
+```
