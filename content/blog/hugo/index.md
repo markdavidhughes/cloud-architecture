@@ -75,3 +75,28 @@ git remote add origin https://github.com/<YOUR_USER_NAME>/example-site
 git push --set-upstream origin main
 ```
 ![Your site now in GitHub](github.png)
+
+## Deploy your web app
+
+The following steps show you how to create a new static site app and deploy it to a production environment.
+
+### Create the application
+
+1. Go to the [Azure Portal](https://portal.azure.com/ "Azure Portal").
+2. Select Create a Resource.
+3. Search for Static Web Apps.
+4. Select Static Web Apps.
+5. Select Create.
+6. On the Basics tab, enter the following values.
+
+Property | Value
+---------|------
+Subscription | Your Azure subscription name.
+Resource group | new-group
+Name | new-app
+Plan type | Free
+Region for Azure Functions API and staging environments | Select a region closest to you.
+Source | GitHub
+
+7. Select Sign in with GitHub and authenticate with GitHub.
+8. Enter the following GitHub values.
