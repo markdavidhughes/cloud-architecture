@@ -26,26 +26,37 @@ If you'd like to build something similar you can follow the following steps:
 
 ## Create a Hugo application
 1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your operating system.
-2. Once installed, open a terminal then run the Hugo CLI to create a new app.
+2. Once installed, open a terminal and run the Hugo CLI to create a new site within your chosen directory.
 ```bash
 hugo new site new-app
 ```
-3. Go to the newly created app.
+3. Change directory into the newly created site.
 ```bash
 cd new-app
 ```
-4. Initialize a Git repo.
+4. Initialize a Git repository for the new site.
 ```bash
 git init
 ```
-5. Create a main branch
+5. Next create a main branch
 ```bash
 git branch -M main
 ```
-6. Add the Stack theme to the site by installing the theme as a git submodule.
+6. Add the Blowfish theme to the site by installing the theme as a git submodule.
 ```bash
-git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
+git submodule add https://github.com/nunocoracao/blowfish themes/blowfish
 ```
+
+
+
+
+
+
+
+
+
+
+
 7. Apply the example site to give the new site some content.
 ```bash
 cp -r themes/hugo-theme-stack/exampleSite/* ./
