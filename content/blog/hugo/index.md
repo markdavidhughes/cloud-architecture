@@ -17,7 +17,7 @@ It uses the Blowfish theme created by Nuno Coração which available from [here.
 
 This guide also follows the Microsoft Learn guide available from [here.](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo "here")
 
-If you'd like to build something similar you can follow the following steps:
+If you'd like to build something similar you can follow the below steps. My guide uses the name Example Site but you can replace this with your own name.
 
 ## Prerequisites
 
