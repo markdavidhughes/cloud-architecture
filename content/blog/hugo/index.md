@@ -92,8 +92,8 @@ The following steps show you how to create a new static site app and deploy it t
 Property | Value
 ---------|------
 Subscription | Your Azure subscription name.
-Resource group | new-group
-Name | new-app
+Resource group | example-group
+Name | example-site
 Plan type | Free
 Region for Azure Functions API and staging environments | Select a region closest to you.
 Source | GitHub
