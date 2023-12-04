@@ -112,15 +112,19 @@ Branch | Select main.
 
 ![Create your new web app](static-web.png)
 
-### Review and create
+### Review your web app
 
 1. Select Review + Create to verify the details are all correct.
 2. Select Create to start the creation of the App Service Static Web App and provision a GitHub Actions for deployment.
 3. Once the deployment completes, select Go to resource.
-4. On the resource screen, copy the URL link to your deployed application. 
 
 ![Review your new web app](example-site-web-app.png)
 
+### Update your web app
+
+1. In order for the blowfish theme to work you will need to update the URL within the themes config file. On the resource screen, copy the URL link to your deployed application. 
+2. Within the /config/_default/config.toml file update the baseURL with the copied URL.
+3. Pus
 ![Update your url](update-url.png)
 
 
