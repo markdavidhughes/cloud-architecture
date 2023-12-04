@@ -11,7 +11,7 @@ tags: ["Hugo", "Static Web App", "GitHub"]
 Discover how to create your very own blog just like this one.
 {{< /lead >}}
 
-This site was built using Hugo and is hosted using a static web application on Microsoft Azure. There are associated GitHub actions which control how the site is built and published.
+This site was built using Hugo and is hosted using a static web application in Microsoft Azure. There are associated GitHub actions which control how the site is built and published.
 
 It uses the Blowfish theme created by Nuno Coração which available from [here.](https://github.com/nunocoracao/blowfish "here")
 
@@ -38,11 +38,11 @@ cd new-app
 ```bash
 git init
 ```
-5. Next create a main branch
+5. Next create a main branch.
 ```bash
 git branch -M main
 ```
-6. Add the Blowfish theme to the site by installing the theme as a git submodule.
+6. Then add the Blowfish theme to the site by installing the theme as a git submodule.
 ```bash
 git submodule add https://github.com/nunocoracao/blowfish themes/blowfish
 ```
