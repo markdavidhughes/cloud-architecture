@@ -106,3 +106,23 @@ Property | Value
 Organization | Select your desired GitHub organization.
 Repository | Select example-site.
 Branch | Select main.
+
+
+9. In the Build Details section, select Hugo from the Build Presets drop-down and keep the default values.
+
+![Create your new web app](images/screenshot-3.png)
+
+### Review and create
+
+1. Select Review + Create to verify the details are all correct.
+2. Select Create to start the creation of the App Service Static Web App and provision a GitHub Actions for deployment.
+3. Once the deployment completes, select Go to resource.
+4. On the resource screen, select the URL link to open your deployed application. You may need to wait a minute or two for the GitHub Actions to complete.
+
+![Review your new web app](images/screenshot-4.png)
+
+![Your fully deployed web app running in Azure](images/screenshot-5.png)
+
+## Conclusion
+
+This will provide you with an Azure static web app similar to mine with the Stack theme applied. From here you can add a custom domain and further customise the site.
