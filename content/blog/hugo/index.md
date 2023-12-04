@@ -128,15 +128,15 @@ Branch | Select main.
 
 ![Update your url](update-url.png)
 
-
-You may need to wait a minute or two for the GitHub Actions to complete.
-
-
+![Update your url](github-action.png)
 
 ### Review and create
+
+1. Wait a minute or two for the GitHub Actions to complete.
+2. Navigate to your web applications URL to confirm deployment
 
 ![Your fully deployed web app running in Azure](images/screenshot-5.png)
 
 ## Conclusion
 
-This will provide you with an Azure static web app similar to mine with the Stack theme applied. From here you can add a custom domain and further customise the site.
+This will provide you with an Azure static web app similar to mine with the Blowfish theme applied. From here you can add a custom domain and further customise the site.
