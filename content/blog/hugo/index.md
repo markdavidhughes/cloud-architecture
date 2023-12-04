@@ -110,7 +110,7 @@ Branch | Select main.
 
 9. In the Build Details section, select Hugo from the Build Presets drop-down and keep the default values.
 
-![Create your new web app](images/screenshot-3.png)
+![Create your new web app](static-web.png)
 
 ### Review and create
 
