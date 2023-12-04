@@ -59,7 +59,7 @@ git commit -m "initial commit"
 ```bash
 hugo server
 ```
-![Example Site running locally](example-site.png)
+![Example Site running locally](example-site.png "Example Site running locally"
 
 ## Publish to GitHub
 
@@ -74,7 +74,7 @@ git remote add origin https://github.com/<YOUR_USER_NAME>/example-site
 ```bash
 git push --set-upstream origin main
 ```
-![Your site now in GitHub](github.png)
+![Your site now in GitHub](github.png "Your site now in GitHub")
 
 ## Deploy your web app
 
@@ -110,7 +110,7 @@ Branch | Select main.
 
 9. In the Build Details section, select Hugo from the Build Presets drop-down and keep the default values.
 
-![Create your new web app](static-web.png)
+![Create your new web app](static-web.png "Create your new web app")
 
 ### Review your web app
 
@@ -118,7 +118,7 @@ Branch | Select main.
 2. Select Create to start the creation of the App Service Static Web App and provision a GitHub Actions for deployment.
 3. Once the deployment completes, select Go to resource.
 
-![Review your new web app](example-site-web-app.png)
+![Review your new web app](example-site-web-app.png "Review your new web app")
 
 ### Update your web app
 
@@ -126,16 +126,16 @@ Branch | Select main.
 2. Within the /config/_default/config.toml file update the baseURL with the copied URL.
 3. Commit and push the changes to GitHub which will automatically run the GitHub action to update the site.
 
-![Update your url](update-url.png)
+![Update your url](update-url.png "Update your url")
 
-![Update your url](github-action.png)
+![Review GitHub action](github-action.png "Review GitHub action")
 
 ### Review and create
 
 1. Wait a minute or two for the GitHub Actions to complete.
 2. Navigate to your web applications URL to confirm deployment
 
-![Your fully deployed web app running in Azure](images/screenshot-5.png)
+![Your fully deployed web app running in Azure](running-site.png "Your fully deployed web app running in Azure")
 
 ## Conclusion
 
