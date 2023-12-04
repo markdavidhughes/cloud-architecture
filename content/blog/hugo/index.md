@@ -124,7 +124,8 @@ Branch | Select main.
 
 1. In order for the blowfish theme to work you will need to update the URL within the themes config file. On the resource screen, copy the URL link to your deployed application. 
 2. Within the /config/_default/config.toml file update the baseURL with the copied URL.
-3. Pus
+3. Commit and push the changes to GitHub which will automatically run the GitHub action to update the site.
+
 ![Update your url](update-url.png)
 
 
