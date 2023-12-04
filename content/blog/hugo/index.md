@@ -59,3 +59,4 @@ git commit -m "initial commit"
 ```bash
 hugo server
 ```
+![Example Site running locally](example-site.png)
