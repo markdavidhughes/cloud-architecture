@@ -130,7 +130,7 @@ Branch | Select main.
 
 ![Review GitHub action](github-action.png "Review GitHub action")
 
-### Review and create
+### Confirm your deployment
 
 1. Wait a minute or two for the GitHub Actions to complete.
 2. Navigate to your web applications URL to confirm deployment
