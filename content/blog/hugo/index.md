@@ -28,11 +28,11 @@ If you'd like to build something similar you can follow the following steps:
 1. In order to create a similar site you must first install Hugo. Follow the [installation guide](https://gohugo.io/installation/ "installation guide") for Hugo for your operating system.
 2. Once installed, open a terminal and run the Hugo CLI to create a new site within your chosen directory.
 ```bash
-hugo new site new-app
+hugo new site "Example Site"
 ```
 3. Change directory into the newly created site.
 ```bash
-cd new-app
+cd "Example Site"
 ```
 4. Initialize a Git repository for the new site.
 ```bash
@@ -55,7 +55,7 @@ cp -r themes/blowfish/exampleSite/* ./
 git add -A
 git commit -m "initial commit"
 ```
-9. Preview the example site by running the following and then browsing to `http://localhost:1313/`.
+9. Preview the example site by running the following and then browsing to `http://localhost:1313/blowfish`.
 ```bash
 hugo server
 ```
