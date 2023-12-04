@@ -55,7 +55,7 @@ cp -r themes/blowfish/exampleSite/* ./
 git add -A
 git commit -m "initial commit"
 ```
-9. Preview the example site by running the following and then browsing to `http://localhost:1313/blowfish`.
+9. Preview the example site by running the following and then browsing to `http://localhost:1313/` or the site shown if different.
 ```bash
 hugo server
 ```
