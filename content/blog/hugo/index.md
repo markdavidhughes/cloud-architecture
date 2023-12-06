@@ -1,6 +1,6 @@
 ---
 title: "How this site was created"
-date: 2023-04-12
+date: 2023-12-04
 draft: false
 description: "Discover how to create your very own blog just like this one."
 categories: ["Azure"]
