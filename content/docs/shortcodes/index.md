@@ -299,12 +299,7 @@ Blowfish also supports automatic conversion of images included using standard Ma
 
 **Example 1:**
 
-```md
-{{</* forgejo server="https://v8.next.forgejo.org" repo="forgejo/forgejo" */>}}
-```
-{{< forgejo server="https://v8.next.forgejo.org" repo="forgejo/forgejo" >}}
 
-<br/><br/><br/>
 
 ## Gallery
 
