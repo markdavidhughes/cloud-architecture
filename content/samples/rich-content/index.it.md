@@ -17,11 +17,7 @@ Below is an example using the built-in `youtube` shortcode.
 
 ## Twitter
 
-This example uses the `x` shortcode to output a Tweet. It requires two named parameters `user` and `id`.
 
-{{< x user="DesignReviewed" id="1085870671291310081" >}}
-
-Alternatively, the `tweet` shortcode can be used to embed a fully marked up Twitter card.
 
 ## Gist
 
