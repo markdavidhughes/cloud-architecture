@@ -148,7 +148,7 @@ smartTOCHideUnfocusedChildren = false
   # enableTrackEvent = false
 
 [buymeacoffee]
-  identifier = "nunocoracao"
+  identifier = "markdavidhughes"
   globalWidget = true
   globalWidgetMessage = ""
   globalWidgetColor = "#FFDD00"
