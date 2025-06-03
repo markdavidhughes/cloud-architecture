@@ -1,23 +1,23 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Cloud Architecture"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "A powerful, lightweight theme for Hugo."
+  dateFormat = "2 January 2025"
+  #logo = "img/421-4213680_cloud-logo-cloud-icon-clipart.png"
+  #description = "A powerful, lightweight theme for Hugo."
+  copyright = "© Copyright { year } Cloud Architecture"
 
-[params.author]
-  name = "Blowfish"
-  email = "nuno@n9o.xyz"
-  image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
-  bio = "A powerful, lightweight theme for Hugo."
+[author]
+  name = "Mark D. Hughes"
+  image = "img/IMG_8667.JPG"
+  headline = "Microsoft Cloud Consultant/Architect | Microsoft Certified Trainer | Microsoft Azure & 365 Certified Expert"
+  bio = "Microsoft Cloud Consultant/Architect | Microsoft Certified Trainer | Microsoft Azure & 365 Certified Expert"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/markdavidhughes" },
+    { linkedin = "https://linkedin.com/in/markdavidhughes/" },
   ]
