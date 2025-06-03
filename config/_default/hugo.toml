@@ -3,13 +3,14 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://happy-wave-0f037d103.6.azurestaticapps.net"
+baseURL = "https://www.cloud-architecture.co.uk"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
+paginate = 100
 summaryLength = 30
 hasCJKLanguage = false
 
@@ -19,9 +20,6 @@ buildFuture = false
 enableEmoji = true
 
 googleAnalytics = "G-PS2LLGT3L7"
-
-[pagination]
-  pagerSize = 102
 
 [imaging]
   anchor = 'Center'
@@ -69,12 +67,3 @@ googleAnalytics = "G-PS2LLGT3L7"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
-
-# Render only specific parts of the site for faster development. Use: hugo --renderSegments site_core
-[segments]
-  [segments.site_core]
-    [[segments.site_core.includes]]
-      path = '{/,/docs,/docs/**,/samples,/samples/**}'
-  [segments.en_only]
-    [[segments.en_only.includes]]
-      lang = 'en'
