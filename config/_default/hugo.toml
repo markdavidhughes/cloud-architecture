@@ -11,7 +11,7 @@ disableLanguages = [] #to allow translation work requiring shipping to productio
 
 enableRobotsTXT = true
 summaryLength = 30
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 buildDrafts = false
 buildFuture = false
